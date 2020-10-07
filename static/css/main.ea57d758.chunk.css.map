@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,KACE,sBAAuB,CACxB,GAGC,wBAAyB,CAC1B,MAGC,wBAAiC","file":"main.ea57d758.chunk.css","sourcesContent":["// styles go here\nbody {\n  background-color: coral;\n}\n\nul {\n  list-style-type: \"\\1F44D\"; // thumbs up sign\n}\n\ninput {\n  background-color: rgb(241, 20, 4);\n}\n"]}
